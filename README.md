@@ -1,4 +1,4 @@
-![](BuildingATopStrikerInFIFA19\Assets\headerFIFA.jpg)
+![](https://github.com/jorgerodriguezm/BuildingATopStrikerInFIFA19/blob/main/Assets/headerFIFA.jpg)
 
 ## About this Repository
 
