@@ -10,6 +10,10 @@ The goal of this repository is to use the FIFA 19 Complete Player Dataset to bui
 
 - [Building a Top Striker in FIFA 19](https://www.kaggle.com/jorgerodriguezm/building-a-top-striker-in-fifa19)
 
+### Model in this Repository:
+
+- [Determining the Key Factors for Developing a Top Striker in FIFA](https://github.com/jorgerodriguezm/BuildingATopStrikerInFIFA19/blob/main/Model/building-a-top-striker-in-fifa19.ipynb)
+
 ### Determining the Key Factors for Developing a Top Striker in FIFA
 
 ### Problem
